@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KonstruktorPomaka", "Konstr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KonstruktorKopije", "KonstruktorKopije\KonstruktorKopije.vcxproj", "{E66591EC-84BC-4B7E-87E8-1238C9D2DD7D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SemantikaPomaka", "SemantikaPomaka\SemantikaPomaka.vcxproj", "{E7032311-92C9-4441-A345-52A44671AE00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{E66591EC-84BC-4B7E-87E8-1238C9D2DD7D}.Release|x64.Build.0 = Release|x64
 		{E66591EC-84BC-4B7E-87E8-1238C9D2DD7D}.Release|x86.ActiveCfg = Release|Win32
 		{E66591EC-84BC-4B7E-87E8-1238C9D2DD7D}.Release|x86.Build.0 = Release|Win32
+		{E7032311-92C9-4441-A345-52A44671AE00}.Debug|x64.ActiveCfg = Debug|x64
+		{E7032311-92C9-4441-A345-52A44671AE00}.Debug|x64.Build.0 = Debug|x64
+		{E7032311-92C9-4441-A345-52A44671AE00}.Debug|x86.ActiveCfg = Debug|Win32
+		{E7032311-92C9-4441-A345-52A44671AE00}.Debug|x86.Build.0 = Debug|Win32
+		{E7032311-92C9-4441-A345-52A44671AE00}.Release|x64.ActiveCfg = Release|x64
+		{E7032311-92C9-4441-A345-52A44671AE00}.Release|x64.Build.0 = Release|x64
+		{E7032311-92C9-4441-A345-52A44671AE00}.Release|x86.ActiveCfg = Release|Win32
+		{E7032311-92C9-4441-A345-52A44671AE00}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
